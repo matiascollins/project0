@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
   #cvInfo     {
-                margin: auto;
+                margin: 25px 50px 25px;
                 padding: 30px;
                 background: lightred;
                 }
@@ -29,7 +29,7 @@
     .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
-                        font-family: "Verdana", Times, serif;
+                        font-family: Verdana, Times, serif;
                         font-size: 14px;
                     
                 }
@@ -62,10 +62,10 @@
 @media only screen and (min-width: 600px) {
  #cvInfo     {
                 margin-left: 20px;
-                   margin-right: 20px;
+                margin-right: 40px;
                 margin-top: 20px;
                 padding: 30px;
-                background: green;
+                background: lightgreen;
                 }
   
   
@@ -88,7 +88,7 @@
     .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
-                        font-family: "Verdana", Times, serif;
+                        font-family: Verdana, Times, serif;
                         font-size: 14px;
                     
                 }
@@ -147,7 +147,7 @@
     .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
-                        font-family: "Verdana", Times, serif;
+                        font-family: Verdana, Times, serif;
                         font-size: 14px;
                     
                 }
@@ -179,10 +179,10 @@
 @media only screen and (min-width: 992px) {
  #cvInfo     {
                 margin-left: 20px;
-                margin-right: 20px;
+                margin-right: 50px;
                 margin-top: 20px;
                 padding: 30px;
-                background: gray;
+                background: lightgray;
                 }
   
   
@@ -239,9 +239,9 @@
  #cvInfo     {
                 margin-left: 20px;
                 margin-top: 20px;
-                margin-right: 20px;
+                margin-right: 50px;
                 padding: 30px;
-                background: pink;
+                background: lightpink;
                 }
   
   
@@ -265,13 +265,13 @@
     .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
-                        font-family: "Verdana", Times, serif;
+                        font-family: Verdana, Times, serif;
                         font-size: 14px;
                     
                 }
 
     body {
-            background-color: lighgray;
+            background-color: lightgray;
         }
 
     h1  {
