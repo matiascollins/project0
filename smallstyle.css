@@ -1,0 +1,62 @@
+
+#indexTop   {
+
+}
+
+#cvInfo     {
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
+                background-color: lightgray;
+                opacity: 0.2;
+}
+
+#cvPassion  {
+
+}
+
+#cvKnowledge    {
+
+}
+
+.infoName   {
+
+}
+
+.infoGate   {
+
+}
+
+.profilePicture {
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
+}
+
+.infoPersonal   {
+                        padding-left: 15px;
+                        padding-top: 5px;
+                        font-family: "Verdana", Times, serif;
+                        font-size: 14px;
+                    
+}
+
+body {
+        background-color: lightgray;
+}
+
+h1  {
+    color: blue;
+}
+
+h2  {
+    color: red;
+}
+
+h3   {
+    color: black;
+}
+
+p   {
+    padding: 5 px;
+}
