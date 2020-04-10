@@ -33,9 +33,9 @@
         margin-right: 25px;
         margin-left: 25px;
         margin-top: 25px;
-        position: relative;
+        position: absolute;
         align= left;
-        width= 15%;
+        width= 100px;
 }
 
 .infoPersonal   {
