@@ -1,6 +1,7 @@
 @media only screen and (max-width: 600px) {
   #cvInfo     {
                 margin-left: 20px;
+                margin-right: 20px;
                 margin-top: 20px;
                 padding: 30px;
                 background: red;
@@ -63,6 +64,7 @@
 @media only screen and (min-width: 600px) {
  #cvInfo     {
                 margin-left: 20px;
+                   margin-right: 20px;
                 margin-top: 20px;
                 padding: 30px;
                 background: green;
@@ -120,6 +122,7 @@
 @media only screen and (min-width: 768px) {
  #cvInfo     {
                 margin-left: 20px;
+                margin-right: 20px;
                 margin-top: 20px;
                 padding: 30px;
                 background: lightblue;
@@ -178,6 +181,7 @@
 @media only screen and (min-width: 992px) {
  #cvInfo     {
                 margin-left: 20px;
+                margin-right: 20px;
                 margin-top: 20px;
                 padding: 30px;
                 background: gray;
@@ -237,6 +241,7 @@
  #cvInfo     {
                 margin-left: 20px;
                 margin-top: 20px;
+                margin-right: 20px;
                 padding: 30px;
                 background: pink;
                 }
