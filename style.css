@@ -1,7 +1,7 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 450px) {
   body {
-    background-color: black;
-    opacity: 0.6;
+    background-color: lightgray;
+
   }
 
 #indexTop {
