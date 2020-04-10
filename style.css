@@ -1,60 +1,241 @@
-
-#indexTop   {
-
-}
-
-#cvInfo     {
+@media only screen and (max-width: 600px) {
+  #cvInfo     {
                 margin-left: 20px;
                 margin-top: 20px;
                 padding: 30px;
-}
-
-#cvPassion  {
-
-}
-
-#cvKnowledge    {
-
-}
-
-.infoName   {
-
-}
-
-.infoGate   {
-
-}
-
-.profilePicture {
+                background: red;
+                }
+  
+  
+ 
+    .profilePicture {
         margin-right: 25px;
         margin-left: 25px;
         margin-top: 25px;
-}
+                }
 
-.infoPersonal   {
+    .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
                         font-family: "Verdana", Times, serif;
                         font-size: 14px;
                     
+                }
+
+    body {
+            background-color: lighgray;
+        }
+
+    h1  {
+        color: blue;
+        }
+
+    h2  {
+        color: red;
+        }
+
+    h3   {
+        color: black;
+        }
+
+    p   {
+        padding: 5 px;
+     }
+ 
+  
+
 }
 
-body {
-        background-color: lighgray;
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+ #cvInfo     {
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
+                background: green;
+                }
+  
+  
+ 
+    .profilePicture {
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
+                }
+
+    .infoPersonal   {
+                        padding-left: 15px;
+                        padding-top: 5px;
+                        font-family: "Verdana", Times, serif;
+                        font-size: 14px;
+                    
+                }
+
+    body {
+            background-color: lighgray;
+        }
+
+    h1  {
+        color: blue;
+        }
+
+    h2  {
+        color: red;
+        }
+
+    h3   {
+        color: black;
+        }
+
+    p   {
+        padding: 5 px;
+     }
+ 
+  
 }
 
-h1  {
-    color: blue;
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+ #cvInfo     {
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
+                background: lightblue;
+                }
+  
+  
+ 
+    .profilePicture {
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
+                }
+
+    .infoPersonal   {
+                        padding-left: 15px;
+                        padding-top: 5px;
+                        font-family: "Verdana", Times, serif;
+                        font-size: 14px;
+                    
+                }
+
+    body {
+            background-color: lighgray;
+        }
+
+    h1  {
+        color: blue;
+        }
+
+    h2  {
+        color: red;
+        }
+
+    h3   {
+        color: black;
+        }
+
+    p   {
+        padding: 5 px;
+     }
+ 
+  
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+ #cvInfo     {
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
+                background: gray;
+                }
+  
+  
+ 
+    .profilePicture {
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
+                }
+
+    .infoPersonal   {
+                        padding-left: 15px;
+                        padding-top: 5px;
+                        font-family: "Verdana", Times, serif;
+                        font-size: 14px;
+                    
+                }
+
+    body {
+            background-color: lighgray;
+        }
+
+    h1  {
+        color: blue;
+        }
+
+    h2  {
+        color: red;
+        }
+
+    h3   {
+        color: black;
+        }
+
+    p   {
+        padding: 5 px;
+     }
+ 
+  
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+ #cvInfo     {
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
+                background: pink;
+                }
+  
+  
+ 
+    .profilePicture {
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
+                }
+
+    .infoPersonal   {
+                        padding-left: 15px;
+                        padding-top: 5px;
+                        font-family: "Verdana", Times, serif;
+                        font-size: 14px;
+                    
+                }
+
+    body {
+            background-color: lighgray;
+        }
+
+    h1  {
+        color: blue;
+        }
+
+    h2  {
+        color: red;
+        }
+
+    h3   {
+        color: black;
+        }
+
+    p   {
+        padding: 5 px;
+     }
+ 
+  
 }
 
-h2  {
-    color: red;
-}
 
-h3   {
-    color: black;
-}
-
-p   {
-    padding: 5 px;
-}
