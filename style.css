@@ -1,4 +1,4 @@
-@media only screen and (min-width: 450px) {
+@media  screen and (min-width: 480px) {
   body {
     background-color: lightgray;
 
@@ -27,13 +27,19 @@
 
 }
 .profilePicture{
-
+        margin-right:15px;
+        margin-left: 15px;
+        margin-top:15px;
 }
 h1{
+    color: blue;
 }
 h2{
+    color: red;
 }
 h3{
+    color: black;
 }
 p{
+    padding: 5 px;
 }
