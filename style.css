@@ -1,54 +1,62 @@
-@media  screen and (min-width: 480px) {
-  body {
-    background-color: lightgray;
-  }
-@media  screen and (max-width: 479px) {
-  body {
-    background-color: white;
-  }
+
 #indexTop   {
 
 }
+
 #cvInfo     {
                 margin-left: 20px;
                 margin-top: 20px;
                 padding: 30px;
-                background-color: gray;
+                background-color: lightgray;
                 opacity: 0.2;
 }
+
 #cvPassion  {
 
 }
+
 #cvKnowledge    {
 
 }
+
 .infoName   {
 
 }
+
 .infoGate   {
 
 }
+
 .profilePicture {
-        margin-right:15px;
-        margin-left: 15px;
-        margin-top:15px;
+        margin-right: 25px;
+        margin-left: 25px;
+        margin-top: 25px;
 }
+
 .infoPersonal   {
-                        padding-left:10 px;
-                        padding-top: 5 px;
+                        padding-left: 15px;
+                        padding-top: 5px;
                         font-family: "Verdana", Times, serif;
-                        font-size: 12px;
+                        font-size: 14px;
                     
 }
+
+body {
+        background-color: white;
+}
+
 h1  {
     color: blue;
 }
+
 h2  {
     color: red;
 }
+
 h3   {
     color: black;
 }
+
 p   {
     padding: 5 px;
 }
