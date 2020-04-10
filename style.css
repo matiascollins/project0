@@ -9,12 +9,22 @@
   
  
     .profilePicture {
-        margin-right: 15px;
-        margin-left: 15px;
-        margin-top: 15px;
-        float: left;
-        width: 50px;
-                }
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 100px;
+        }
+
+    .profilePicture:hover {
+      border: 1px solid #777;
+    }
+
+    .profilePicture img {
+      width: 100%;
+      height: auto;
+    }
+
+             
 
     .infoPersonal   {
                         padding-left: 15px;
@@ -58,14 +68,21 @@
                 }
   
   
- 
     .profilePicture {
-        margin-right: 25px;
-        margin-left: 25px;
-        margin-top: 25px;
-        width: 60px;
-        float: left;
-                }
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 120px;
+        }
+
+    .profilePicture:hover {
+      border: 1px solid #777;
+    }
+
+    .profilePicture img {
+      width: 100%;
+      height: auto;
+    }
 
     .infoPersonal   {
                         padding-left: 15px;
@@ -110,12 +127,20 @@
   
  
     .profilePicture {
-        margin-right: 25px;
-        margin-left: 25px;
-        margin-top: 25px;
-        width: 70px;
-        float: left;      
-                }
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 130px;
+        }
+
+    .profilePicture:hover {
+      border: 1px solid #777;
+    }
+
+    .profilePicture img {
+      width: 100%;
+      height: auto;
+    }
 
     .infoPersonal   {
                         padding-left: 15px;
@@ -160,12 +185,20 @@
   
  
     .profilePicture {
-        margin-right: 25px;
-        margin-left: 25px;
-        margin-top: 25px;
-        width: 90px;
-        float: left;
-                }
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 150px;
+        }
+
+    .profilePicture:hover {
+      border: 1px solid #777;
+    }
+
+    .profilePicture img {
+      width: 100%;
+      height: auto;
+    }
 
     .infoPersonal   {
                         padding-left: 15px;
@@ -210,13 +243,20 @@
   
  
     .profilePicture {
-        margin-right: 25px;
-        margin-left: 25px;
-        margin-top: 25px;
-        width: 100px;
-        float: left;
-        
-                }
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 160px;
+        }
+
+    .profilePicture:hover {
+      border: 1px solid #777;
+    }
+
+    .profilePicture img {
+      width: 100%;
+      height: auto;
+    }
 
     .infoPersonal   {
                         padding-left: 15px;
