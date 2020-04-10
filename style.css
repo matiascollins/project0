@@ -1,10 +1,8 @@
 @media only screen and (max-width: 600px) {
   #cvInfo     {
-                margin-left: 20px;
-                margin-right: 20px;
-                margin-top: 20px;
+                margin: auto;
                 padding: 30px;
-                background: red;
+                background: lightred;
                 }
   
   
