@@ -7,7 +7,6 @@
                 margin-left: 20px;
                 margin-top: 20px;
                 padding: 30px;
-
 }
 
 #cvPassion  {
@@ -35,7 +34,7 @@
 .infoPersonal   {
                         padding-left: 15px;
                         padding-top: 5px;
-                        font-family: "Verdana", Times, serif;
+                        font-family: Verdana, Times, serif;
                         font-size: 14px;
                     
 }
@@ -57,5 +56,5 @@ h3   {
 }
 
 p   {
-    padding: 5 px;
+    padding: 5px;
 }

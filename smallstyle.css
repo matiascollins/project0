@@ -7,15 +7,18 @@
                 margin-left: 20px;
                 margin-top: 20px;
                 padding: 30px;
-
 }
 
 #cvPassion  {
-
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
 }
 
 #cvKnowledge    {
-
+                margin-left: 20px;
+                margin-top: 20px;
+                padding: 30px;
 }
 
 .infoName   {
@@ -30,6 +33,9 @@
         margin-right: 25px;
         margin-left: 25px;
         margin-top: 25px;
+        position: relative;
+        align= left;
+        width= 15%;
 }
 
 .infoPersonal   {
