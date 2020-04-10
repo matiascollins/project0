@@ -6,49 +6,49 @@
   body {
     background-color: white;
   }
-#indexTop {
+#indexTop   {
 
 }
-#cvInfo {
+#cvInfo     {
                 margin-left: 20px;
                 margin-top: 20px;
                 padding: 30px;
                 background-color: gray;
                 opacity: 0.2;
 }
-#cvPassion{
+#cvPassion  {
 
 }
-#cvKnowledge{
+#cvKnowledge    {
 
 }
-.infoName{
+.infoName   {
 
 }
-.infoGate{
+.infoGate   {
 
 }
-.profilePicture{
+.profilePicture {
         margin-right:15px;
         margin-left: 15px;
         margin-top:15px;
 }
-.infoPersonal{
+.infoPersonal   {
                         padding-left:10 px;
                         padding-top: 5 px;
                         font-family: "Verdana", Times, serif;
                         font-size: 12px;
                     
 }
-h1{
+h1  {
     color: blue;
 }
-h2{
+h2  {
     color: red;
 }
-h3{
+h3   {
     color: black;
 }
-p{
+p   {
     padding: 5 px;
 }
