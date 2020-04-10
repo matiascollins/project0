@@ -12,11 +12,12 @@
           margin: 5px;
           border: 1px solid #ccc;
           float: left;
-          width: 100px;
+          width: 120px;
         }
 
     .profilePicture:hover {
       border: 1px solid #777;
+      pointer: cursor;
     }
 
     .profilePicture img {
@@ -72,7 +73,7 @@
           margin: 5px;
           border: 1px solid #ccc;
           float: left;
-          width: 120px;
+          width: 130px;
         }
 
     .profilePicture:hover {
@@ -130,7 +131,7 @@
           margin: 5px;
           border: 1px solid #ccc;
           float: left;
-          width: 130px;
+          width: 150px;
         }
 
     .profilePicture:hover {
@@ -188,7 +189,7 @@
           margin: 5px;
           border: 1px solid #ccc;
           float: left;
-          width: 150px;
+          width: 180px;
         }
 
     .profilePicture:hover {
@@ -246,7 +247,7 @@
           margin: 5px;
           border: 1px solid #ccc;
           float: left;
-          width: 160px;
+          width: 200px;
         }
 
     .profilePicture:hover {
