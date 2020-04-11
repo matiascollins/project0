@@ -1,59 +1,15 @@
 @media only screen and (max-width: 600px) {
-  #cvInfo     {
-                margin: 5px 5px 5px;
-                padding: 5px;
-                background: #acecd7;
-                }
-  
-  #cvKnowledge {
-                margin: 5px 5px 5px;
-                padding: 5px;
-                background: #acecd7;                
-                }
- #tableInfo {
-            border: 0.5px solid black;
-            }
- #tableInfo th {
-                background-color: lightgray;
-                } 
-    .profilePicture {
-          margin: 5px;
-          border: 1px solid #ccc;
-          float: left;
-          width: 200px;
-        }
-
-    .profilePicture:hover {
-      border: 1px solid #777;
-      pointer: cursor;
-    }
-
-    .profilePicture img {
-      width: 100%;
-      height: auto;
-    }
-
-
-#imagePassion {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-#imagePassion:hover {
-  border: 1px solid #777;
-}
-
-#imagePassion img {
-  width: 100px;
-  height: auto;
-}
-
-#cvCaption {
-  padding: 15px;
-  text-align: center;
-}             
+ #cvInfo { margin: 5px 5px 5px; padding: 5px; background: #acecd7; }
+ #cvKnowledge { margin: 5px 5px 5px;padding: 5px; background: #acecd7; }
+ #tableInfo { border: 0.5px solid black;}
+ #tableInfo th { background-color: lightgray; } 
+ .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
+ .profilePicture:hover { border: 1px solid #777; pointer: cursor; }
+ .profilePicture img { width: 100%; height: auto; }
+ #imagePassion { margin: 5px; border: 1px solid #ccc; float: left; width: 180px; }
+ #imagePassion:hover { border: 1px solid #777; }
+ #imagePassion img { width: 100px; height: auto; }
+ #cvCaption { padding: 15px; text-align: center; }             
 
     .infoPersonal   {
                         padding-left: 15px;
