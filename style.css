@@ -16,7 +16,7 @@
  .profilePicture:hover { border: 1px solid #777; pointer: cursor; }
  .profilePicture img { width: 100%; height: auto; }
  .imagePassion { margin: auto; border: 1px solid #777; width: 100%; }
- .imagePassion:hover { border: 1px solid #ccc; }
+ .imagePassion:hover { border: 1px solid #ccc; opacity: 0.5px;}
  .imagePassion img { width: 100%; }
  .cvCaption { padding: 15px; text-align: center; }             
  .infoPersonal   { padding-left: 15px; padding-top: 5px; font-family: Verdana, Times, serif; font-size: 14px;  }
@@ -32,8 +32,8 @@
  .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
  .profilePicture:hover { border: 1px solid #777;  }
  .profilePicture img { width: 100%; height: auto; }
- .imagePassion { margin: 5px; border: 1px solid #777; float: left; width: 31%; height: 120px;}
- .imagePassion:hover { border: 1px solid #ccc; } 
+ .imagePassion { margin: 5px; border: 1px solid #777; width: 31%; }
+ .imagePassion:hover { border: 1px solid #ccc; opacity: 0.5px;} 
  .imagePassion img { width: 100%; height: auto; }
  .cvCaption { padding: 15px; text-align: center; font-size: 10px;}
  .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px;   }
@@ -49,9 +49,9 @@
  .profilePicture { margin: 5px; border: 1px solid #ccc;  float: left; width: 250px;  }
  .profilePicture:hover {  border: 1px solid #777; }
  .profilePicture img {  width: 100%; height: auto;  }
- .imagePassion { margin: 5px; border: 1px solid #777;  float: left; width: 31%; }
+ .imagePassion { margin: 5px; border: 1px solid #777; width: 31%; }
  .imagePassion:hover { border: 1px solid #ccc; }
- .imagePassion img { width: 100%; height: auto; }
+ .imagePassion img { width: 100%; height: auto; opacity: 0.5px;}
  .cvCaption { padding: 15px; text-align: center; }
  .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px; }
  body { background: lightgray;  }
@@ -67,9 +67,9 @@
   .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 280px; }
   .profilePicture:hover {  border: 1px solid #777;  }
   .profilePicture img { width: 100%; height: auto;   }
- .imagePassion { margin: 5px; border: 1px solid #777;  float: left;  width: 30%; }
+ .imagePassion { margin: 5px; border: 1px solid #777;  float: left;  width: 31%; }
 .imagePassion:hover {  border: 1px solid #ccc; }
- .imagePassion img { width: 100%; height: auto; }
+ .imagePassion img { width: 100%; height: auto; opacity: 0.5px;}
  .cvCaption { padding: 15px; text-align: center; }
   .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: "Verdana", Times, serif;  font-size: 14px;   }
  body { background: lightgray;  }
@@ -86,9 +86,9 @@
   .profilePicture:hover {  border: 1px solid #777;  }
   .profilePicture img { width: 100%; height: auto;   }
   .infoPersonal   {  padding-left: 15px;  padding-top: 5px;   font-family: Verdana, Times, serif;  font-size: 14px;  }
-  .imagePassion { margin: 5px; border: 1px solid #777;  float: left;  width: 20%; }
+  .imagePassion { margin: 5px; border: 1px solid #777;  float: left;  width: 31%; }
   .imagePassion:hover {  border: 1px solid #ccc ; }
-  .imagePassion img { width: 100%; height: auto; }
+  .imagePassion img { width: 100%; height: auto; opacity: 0.5px; }
   .cvCaption { padding: 15px; text-align: center; }
    body { background: lightgray ;  }
    p   { padding: 5px;  font-size: 18px;   }
