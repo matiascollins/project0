@@ -15,7 +15,7 @@
  .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
  .profilePicture:hover { border: 1px solid #777; pointer: cursor; }
  .profilePicture img { width: 100%; height: auto; }
- .imagePassion { margin: auto; border: 1px solid #777; width: 90%; }
+ .imagePassion { margin: auto; border: 1px solid #777; width: 100%; }
  .imagePassion:hover { border: 1px solid #ccc; }
  .imagePassion img { width: 100%; }
  .cvCaption { padding: 15px; text-align: center; }             
