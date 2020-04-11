@@ -351,3 +351,23 @@
 }
 
 
+#imagePassion {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+#imagePassion:hover {
+  border: 1px solid #777;
+}
+
+#imagePassion img {
+  width: 100%;
+  height: auto;
+}
+
+#cvCaption {
+  padding: 15px;
+  text-align: center;
+}
