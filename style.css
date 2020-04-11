@@ -13,7 +13,7 @@
  #tableInfo {
             border: 0.5px solid black;
             }
- #tableInfo.th {
+ #tableInfo th {
                 background-color: lightgray;
                 } 
     .profilePicture {
@@ -87,7 +87,7 @@
   #tableInfo {
             border: 0.5px solid black;
             }
- #tableInfo.th {
+ #tableInfo th {
                 background-color: lightgray;
                 } 
     .profilePicture {
@@ -159,7 +159,7 @@
  #tableInfo {
             border: 0.5px solid black;
             }
- #tableInfo.th {
+ #tableInfo th {
                 background-color: lightgray;
                 }
     .profilePicture {
@@ -228,7 +228,7 @@
  #tableInfo {
             border: 0.5px solid black;
             }
- #tableInfo.th {
+ #tableInfo th {
                 background-color: lightgray;
                 }  
  
@@ -298,7 +298,7 @@
  #tableInfo {
             border: 0.5px solid black;
             }
- #tableInfo.th {
+ #tableInfo th {
                 background-color: lightgray;
                 }  
  
