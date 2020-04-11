@@ -1,7 +1,7 @@
 @media only screen and (max-width: 600px) {
   #cvInfo     {
-                margin: 10px 20px 15px;
-                padding: 10px;
+                margin: 5px 5px 5px;
+                padding: 5px;
                 background: #acecd7;
                 }
   
@@ -238,9 +238,9 @@
 @media only screen and (min-width: 1200px) {
  #cvInfo     {
                 margin-left: 20px;
-                margin-top: 20px;
+                margin-top: 10px;
                 margin-right: 50px;
-                padding: 30px;
+                padding: 10px;
                 background: #d2d3ec;
                 }
   
