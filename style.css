@@ -46,7 +46,7 @@
 }
 
 #imagePassion img {
-  width: 100%;
+  width: 100px;
   height: auto;
 }
 
@@ -138,7 +138,7 @@
 }
 
 #imagePassion img {
-  width: 100%;
+  width: 110px;
   height: auto;
 }
 
@@ -230,7 +230,7 @@
 }
 
 #imagePassion img {
-  width: 100%;
+  width: 120px;
   height: auto;
 }
 
@@ -320,7 +320,7 @@
 }
 
 #imagePassion img {
-  width: 100%;
+  width: 130px;
   height: auto;
 }
 
@@ -378,6 +378,7 @@
                 }   
  #tableInfo {
             border: 0.5px solid black;
+            align: center;
             }
  #tableInfo th {
                 background-color: lightgray;
@@ -395,7 +396,7 @@
     }
 
     .profilePicture img {
-      width: 100%;
+      width: 140px;
       height: auto;
     }
 
