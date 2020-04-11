@@ -2,13 +2,14 @@
   h1  { color: blue;  text-align: center;  }
   h2  { color: red; text-align: center;  }
   h3  { color: black;  }
- #tablealign { align: center; }
+ .tablealign { margin: auto; }
  #tableInfo { border: 0.5px solid black; }
  #tableInfo th { background-color: lightgray; } 
+
    
 @media only screen and (max-width: 600px) {
- #cvInfo { margin: 5px 5px 5px; padding: 5px; background: #acecd7; }
- #cvKnowledge { margin: 5px 5px 5px;padding: 5px; background: #acecd7; }
+ #cvInfo, .idObjectives { margin: 5px 5px 5px; padding: 5px; background: #acecd7; }
+ #cvKnowledge, .reQuirements { margin: 5px 5px 5px;padding: 5px; background: #acecd7; }
  #tableInfo th { background-color: lightgray; } 
  .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
  .profilePicture:hover { border: 1px solid #777; pointer: cursor; }
@@ -20,12 +21,13 @@
  .infoPersonal   { padding-left: 15px; padding-top: 5px; font-family: Verdana, Times, serif; font-size: 14px;  }
   body { background-color: lighgray; }
   p   {  padding: 5px; font-size: 9px; }
+ .tableobs { font-size: 6px;}
                                                                          }
 /* end for Small devices max 600px ) */
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
- #cvInfo     { margin-left: 15px; margin-right: 15px; margin-top: 10px; padding: 15px; background: #eed8cb; }
- #cvKnowledge { margin: 15px 15px 10px 15px; padding: 15px;  background: #acecd7; } 
+ #cvInfo,  .idObjectives     { margin-left: 15px; margin-right: 15px; margin-top: 10px; padding: 15px; background: #eed8cb; }
+ #cvKnowledge, .reQuirements { margin: 15px 15px 10px 15px; padding: 15px;  background: #acecd7; } 
  .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
  .profilePicture:hover { border: 1px solid #777;  }
  .profilePicture img { width: 100%; height: auto; }
@@ -34,14 +36,15 @@
  .imagePassion img { width: 110px; height: auto; }
  .cvCaption { padding: 15px; text-align: center; }
  .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px;   }
- body { background: lightgray;  }
+  body { background: lightgray;  }
   p   { padding: 5px; font-size: 12px; } 
+ .tableobs { font-size: 7px;}
                                                                         }
 /* END Small devices (portrait tablets and large phones, 600px and up) */
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
- #cvInfo     {  margin-left: 15px;  margin-right: 15px; margin-top: 10px; padding: 15px;  background: #eed8e1;  }
- #cvKnowledge { margin: 15px 15px 10px 15px; padding: 15px;   background: #acecd7;  }   
+ #cvInfo,  .idObjectives     {  margin-left: 15px;  margin-right: 15px; margin-top: 10px; padding: 15px;  background: #eed8e1;  }
+ #cvKnowledge, .reQuirements { margin: 15px 15px 10px 15px; padding: 15px;   background: #acecd7;  }   
  .profilePicture { margin: 5px; border: 1px solid #ccc;  float: left; width: 250px;  }
  .profilePicture:hover {  border: 1px solid #777; }
  .profilePicture img {  width: 100%; height: auto;  }
@@ -52,12 +55,13 @@
  .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px; }
  body { background: lightgray;  }
  p   {  padding: 5px; font-size: 14px;  } 
+  .tableobs { font-size: 8px;}
                                                                         } 
 /* END Medium devices (landscape tablets, 768px and up) */
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
- #cvInfo     {  margin-left: 20px;  margin-right: 20px; margin-top: 20px;  padding: 20px;  background: #c9e3eb; min-height: 400px;  }
- #cvKnowledge { margin: 20px 20px 20px 20px; padding: 15px; background: #acecd7; }    
+ #cvInfo ,  .idObjectives    {  margin-left: 20px;  margin-right: 20px; margin-top: 20px;  padding: 20px;  background: #c9e3eb; min-height: 400px;  }
+ #cvKnowledge, .reQuirements { margin: 20px 20px 20px 20px; padding: 15px; background: #acecd7; }    
   .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 280px; }
   .profilePicture:hover {  border: 1px solid #777;  }
   .profilePicture img { width: 100%; height: auto;   }
@@ -68,12 +72,13 @@
   .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: "Verdana", Times, serif;  font-size: 14px;   }
  body { background: lightgray;  }
   p   { padding: 5px;  font-size: 16px; }
+ .tableobs { font-size: 10px;}
                                                                         } 
 /*  ******* END Large devices (laptops/desktops, 992px and up) */
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
- #cvInfo     {  margin-left: 20px;   margin-top: 10px;  margin-right: 50px;   padding: 10px; background: #d2d3ec; min-height: 400px;   }
- #cvKnowledge { margin: 20px 10px 50px 10px;  padding: 10px;  background: #acecd7;     }   
+ #cvInfo ,  .idObjectives    {  margin-left: 20px;   margin-top: 10px;  margin-right: 50px;   padding: 10px; background: #d2d3ec; min-height: 400px;   }
+ #cvKnowledge, .reQuirements { margin: 20px 10px 50px 10px;  padding: 10px;  background: #acecd7;     }   
   .profilePicture {   margin: 5px; border: 1px solid #ccc; float: left; width: 20%;   }
   .profilePicture:hover {  border: 1px solid #777;  }
   .profilePicture img { width: 100%; height: auto;   }
@@ -84,6 +89,7 @@
   .cvCaption { padding: 15px; text-align: center; }
    body { background: pink ;  }
    p   { padding: 5px;  font-size: 18px;   }
+   .tableobs { font-size: 11px;}
                                                                             }
 
 
