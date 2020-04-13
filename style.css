@@ -5,10 +5,11 @@
  #tablealign { margin: auto; }
  #tableInfo { border: 0.5px solid black; }
  #tableInfo th { background-color: lightgray; } 
-
-   
+ .listIndex li { border-style: dashed; }
+ .listIndexItem:hover {border: 1px solid #777; background-color:hotpink;}
+ 
 @media only screen and (max-width: 600px) {
- #cvInfo { margin: 5px 5px 5px; padding: 5px; background: #acecd7; }
+ #cvInfo, indexTop { margin: 5px 5px 5px; padding: 5px; background: #acecd7; }
  .idObjectives { margin: 5px 5px 5px; padding: 5px; background: #eed8e1; }
  #cvKnowledge, .reQuirements { margin: 5px 5px 5px; background: #eed8cb; }
  #tableInfo th { background-color: lightgray; } 
