@@ -22,7 +22,7 @@
                                                                              .profilePicture { margin: 5px; border: 1px solid #ccc; float: left; width: 200px; }
                                                                              .profilePicture:hover { border: 1px solid #777; pointer: cursor; }
                                                                              .profilePicture img { width: 100%; height: auto; }
-                                                                             .imagePassion { margin: auto; border: 1px solid #777; width: 100%; }
+                                                                             .imagePassion { margin: auto; border: 1px solid #777; width: 95%; }
                                                                              .cvCaption { padding: 15px; text-align: center; }             
                                                                              .infoPersonal   { padding-left: 15px; padding-top: 5px; font-family: Verdana, Times, serif; font-size: 14px;  }
                                                                               body { background-color: lighgray; }
@@ -40,6 +40,8 @@
                                                                              .profilePicture:hover { border: 1px solid #777;  }
                                                                              .profilePicture img { width: 100%; height: auto; }
                                                                              .imagePassion { margin: auto; border: 1px solid #777; width: 30%; display: inline; }
+                                                                             .imagePassion img:hover { opacity:0.5; border: 1px solid #ccc; }
+                                                                              .imagePassion img { width: 30%; height: auto; } 
                                                                              .cvCaption { padding: 15px; text-align: center; font-size: 10px;}
                                                                              .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px;   }
                                                                               body { background: lightgray;  }
@@ -56,6 +58,8 @@
                                                                          .profilePicture:hover {  border: 1px solid #777; }
                                                                          .profilePicture img {  width: 100%; height: auto;  }
                                                                          .imagePassion { margin: auto; border: 1px solid #777; width: 30%; padding:5px; display: inline;}
+                                                                         .imagePassion img:hover { opacity:0.5; border: 1px solid #ccc; }
+                                                                         .imagePassion img { width: 30%; height: auto; }
                                                                          .cvCaption { padding: 15px; text-align: center; }
                                                                          .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: Verdana, Times, serif;  font-size: 14px; }
                                                                          body { background: lightgray;  }
@@ -73,6 +77,8 @@
                                                                       .profilePicture:hover {  border: 1px solid #777;  }
                                                                       .profilePicture img { width: 100%; height: auto;   }
                                                                      .imagePassion { margin: auto; border: 1px solid #777; width: 30%; display: inline;}
+                                                                     .imagePassion img:hover { opacity:0.5; border: 1px solid #ccc; }
+                                                                     .imagePassion img { width: 30%; height: auto; }
                                                                      .cvCaption { padding: 15px; text-align: center; }
                                                                       .infoPersonal   {  padding-left: 15px;  padding-top: 5px;  font-family: "Verdana", Times, serif;  font-size: 14px;   }
                                                                      body { background: lightgray;  }
@@ -92,7 +98,7 @@
                                                                               .infoPersonal   {  padding-left: 15px;  padding-top: 5px;   font-family: Verdana, Times, serif;  font-size: 14px;  }
                                                                               .imagePassion { margin: auto; border: 1px solid #777;  width: 30%; display: inline;}
                                                                                .imagePassion img:hover { opacity:0.5; border: 1px solid #ccc; }
-                                                                                .imagePassion img { width: 100%; height: auto; }
+                                                                               .imagePassion img { width: 30%; height: auto; }
                                                                               .cvCaption { padding: 15px; text-align: center; }
                                                                               body { background: lightgray ;  }
                                                                                p   { padding: 5px;  font-size: 18px;   }
