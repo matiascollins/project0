@@ -8,9 +8,9 @@
  #indexTop {    margin:auto;  
                         position: -webkit-sticky; /* Safari */
                         position: sticky;
-                        top: 0;  }
+                        top: 0; 
+                        background-color:white;}
  .listIndex {margin: auto;}
- .listIndex li { display: inline-block; font-size: 10px; padding: 5px; }
  .listIndexItem:hover {border: 1px solid #777; border-radius: 5px; background-color:hotpink;}
  
 @media only screen and (max-width: 600px) {
@@ -29,6 +29,7 @@
   body { background-color: lighgray; }
   p   {  padding: 5px; font-size: 9px; }
  .tableobs { font-size: 8px;}
+  .listIndex li { display: inline-block; font-size: 10px; padding: 5px; }
                                                                          }
 /* end for Small devices max 600px ) */
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -46,6 +47,7 @@
   body { background: lightgray;  }
   p   { padding: 5px; font-size: 12px; } 
  .tableobs { font-size: 9px;}
+  .listIndex li { display: inline-block; font-size: 11px; padding: 5px; }
                                                                         }
 /* END Small devices (portrait tablets and large phones, 600px and up) */
 /* Medium devices (landscape tablets, 768px and up) */
@@ -63,6 +65,7 @@
  body { background: lightgray;  }
  p   {  padding: 5px; font-size: 14px;  } 
   .tableobs { font-size: 10px;}
+   .listIndex li { display: inline-block; font-size: 12px; padding: 5px; }
                                                                         } 
 /* END Medium devices (landscape tablets, 768px and up) */
 /* Large devices (laptops/desktops, 992px and up) */
@@ -81,6 +84,7 @@
  body { background: lightgray;  }
   p   { padding: 5px;  font-size: 16px; }
  .tableobs { font-size: 12px;}
+  .listIndex li { display: inline-block; font-size: 14px; padding:10px; }
                                                                         } 
 /*  ******* END Large devices (laptops/desktops, 992px and up) */
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -99,6 +103,7 @@
    body { background: lightgray ;  }
    p   { padding: 5px;  font-size: 18px;   }
    .tableobs { font-size: 14px;}
+    .listIndex li { display: inline-block; font-size: 14px; padding: 15px; }
                                                                             }
 
 
