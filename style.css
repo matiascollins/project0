@@ -101,14 +101,14 @@
                                                                               .profilePicture:hover {  border: 1px solid #777;  }
                                                                               .profilePicture img { width: 100%; height: auto;   }
                                                                               .infoPersonal   {  padding-left: 15px;  padding-top: 5px;   font-family: Verdana, Times, serif;  font-size: 14px;  }
-                                                                             .imagePassion { margin:10px; border: 1px solid #777; width: 30%; }
-                                                                             .imagePassion img:hover { opacity: 0.5; border: 1px solid #ccc; }
-                                                                             .imagePassion img { width: 100%;  } 
-                                                                             .boximage {display: flex; padding 5px; margin: auto; }
-                                                                                .cvCaption { font-size:16px; padding: 5px; text-align: center; }
+                                                                              .imagePassion { margin:10px; border: 1px solid #777; width: 30%; }
+                                                                              .imagePassion img:hover { opacity: 0.5; border: 1px solid #ccc; }
+                                                                              .imagePassion img { width: 100%;  } 
+                                                                              .boximage {display: flex; padding-top: 5px; margin: auto; }
+                                                                              .cvCaption { font-size:16px; padding: 5px; text-align: center; }
                                                                               body { background: lightgray ;  }
                                                                                p   { padding: 5px;  font-size: 18px;   }
-                                                                               .tableobs { font-size: 14px;}
-                                                                               .listIndex li { display: inline-block; font-size: 14px; padding: 15px; }
+                                                                              .tableobs { font-size: 14px;}
+                                                                              .listIndex li { display: inline-block; font-size: 14px; padding: 15px; }
                                                                             }
  
