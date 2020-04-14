@@ -101,10 +101,10 @@
                                                                               .profilePicture:hover {  border: 1px solid #777;  }
                                                                               .profilePicture img { width: 100%; height: auto;   }
                                                                               .infoPersonal   {  padding-left: 15px;  padding-top: 5px;   font-family: Verdana, Times, serif;  font-size: 14px;  }
-                                                                              .imagePassion { margin:10px; border: 1px solid #777; width: 30%; }
+                                                                              .imagePassion { padding: 5px; border: 1px solid #777; width: 30%; }
                                                                               .imagePassion img:hover { opacity: 0.5; border: 1px solid #ccc; }
                                                                               .imagePassion img { width: 100%;  } 
-                                                                              .boximage {display: flex; padding-top: 5px; margin: auto; }
+                                                                              .boximage {display: flex;  margin: auto; }
                                                                               .cvCaption { font-size:16px; padding: 5px; text-align: center; }
                                                                               body { background: lightgray ;  }
                                                                                p   { padding: 5px;  font-size: 18px;   }
