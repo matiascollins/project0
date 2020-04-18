@@ -1,8 +1,9 @@
 /* Define standard variables and values for website */
 $bgcolor: lightblue;
-$width: 520px;
-$height: 340px;
+$width: 340px;
+$height: 260px;
 $margin: auto;
+$padding: 10px;
 
 /* Use the variables */
 .videohello {
@@ -10,7 +11,10 @@ $margin: auto;
   width: $width;
   height: $height;
   margin: $margin;
+  padding: $padding;
 }
 .videostyle {
   margin: $margin;
+  width: $width;
+  height: $height;
 }

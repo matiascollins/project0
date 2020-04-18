@@ -2,11 +2,14 @@
 /* Use the variables */
 .videohello {
   background-color: lightblue;
-  width: 520px;
-  height: 340px;
-  margin: auto; }
+  width: 340px;
+  height: 260px;
+  margin: auto;
+  padding: 10px; }
 
 .videostyle {
-  margin: auto; }
+  margin: auto;
+  width: 340px;
+  height: 260px; }
 
 /*# sourceMappingURL=scssstyle.css.map */
