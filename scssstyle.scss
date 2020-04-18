@@ -1,0 +1,11 @@
+/* Define standard variables and values for website */
+$bgcolor: lightblue;
+$width: 320px;
+$height: 240px;
+
+/* Use the variables */
+videohello {
+  background-color: $bgcolor;
+  width: $width;
+  height: $height;
+}
