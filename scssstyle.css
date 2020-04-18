@@ -3,7 +3,9 @@
 .videohello {
   background-color: lightblue;
   width: 420px;
-  height: 340px;
+  height: 340px; }
+
+.videohello > .videostyle {
   margin: auto; }
 
 /*# sourceMappingURL=scssstyle.css.map */
