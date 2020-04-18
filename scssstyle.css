@@ -2,10 +2,11 @@
 /* Use the variables */
 .videohello {
   background-color: lightblue;
-  width: 420px;
-  height: 340px; }
+  width: 520px;
+  height: 340px;
+  margin: auto; }
 
-.videohello > .videostyle {
+.videostyle {
   margin: auto; }
 
 /*# sourceMappingURL=scssstyle.css.map */

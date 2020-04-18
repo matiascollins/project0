@@ -1,6 +1,6 @@
 /* Define standard variables and values for website */
 $bgcolor: lightblue;
-$width: 420px;
+$width: 520px;
 $height: 340px;
 $margin: auto;
 
@@ -9,7 +9,8 @@ $margin: auto;
   background-color: $bgcolor;
   width: $width;
   height: $height;
+  margin: $margin;
 }
-.videohello > .videostyle {
+.videostyle {
   margin: $margin;
 }
