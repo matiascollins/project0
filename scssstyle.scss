@@ -2,10 +2,12 @@
 $bgcolor: lightblue;
 $width: 320px;
 $height: 240px;
+$margin: auto;
 
 /* Use the variables */
 videohello {
   background-color: $bgcolor;
   width: $width;
   height: $height;
+  margin: $margin;
 }
