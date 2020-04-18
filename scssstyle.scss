@@ -4,6 +4,9 @@ $width: 340px;
 $height: 260px;
 $margin: auto;
 $padding: 10px;
+$widthimage: 100%;
+
+
 
 /* Use the variables */
 .videohello {
@@ -18,3 +21,35 @@ $padding: 10px;
   width: $width;
   height: $height;
 }
+
+
+@media only screen and (max-width: 600px) {
+                                                                        .passionImagenBooth  img {
+                                                                        width:$widthimage;
+                                                                        }
+
+}
+@media only screen and (min-width: 600px) {
+                                                                        .passionImagenBooth  img {
+                                                                        width:$widthimage;
+                                                                        }
+}
+@media only screen and (min-width: 768px) {
+                                                                        .passionImagenBooth img {
+                                                                        width:$widthimage;
+                                                                        }
+
+}
+@media only screen and (min-width: 992px) {
+                                                                     .passionImagenBooth  img {
+                                                                        width:$widthimage;
+                                                                        }
+
+}
+@media only screen and (min-width: 1200px) {
+                                                                        .passionImagenBooth img {
+                                                                        width:$widthimage;
+                                                                        }
+
+}
+
