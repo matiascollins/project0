@@ -24,42 +24,62 @@ $vopacity: 0.5;
 }
 
 
+%
+
 @media only screen and (max-width: 600px) {
-                                                                        .passionImagenBooth  img {
-                                                                        width:$widthimage;
-                                                                        }
-                                                                        .passionImagenBooth  img:hover {
-                                                                        opacity:$vopacity;
-                                                                        }
+                                                                        .passionImagenBooth {
+                                                                
+                                                                                                              img {
+                                                                                                                        width:$widthimage;
+                                                                                                                      }
+                                                                                                              img:hover {
+                                                                                                                        opacity:$vopacity; 
+                                                                                                                                }
+                                                                                                            }
 }
 @media only screen and (min-width: 600px) {
-                                                                        .passionImagenBooth  img {
-                                                                        width:$widthimage;
-                                                                        }
-                                                                        .passionImagenBooth  img:hover {
-                                                                        opacity:$vopacity; 
-                                                                        }
+                                                                        .passionImagenBooth {
+                                                                
+                                                                                                              img {
+                                                                                                                        width:$widthimage;
+                                                                                                                      }
+                                                                                                              img:hover {
+                                                                                                                        opacity:$vopacity; 
+                                                                                                                                }
+                                                                                                            }
 }
 @media only screen and (min-width: 768px) {
-                                                                        .passionImagenBooth img {
-                                                                        width:$widthimage;
-                                                                        }
-                                                                         .passionImagenBooth  img:hover { opacity:$vopacity;  }                                                                     
-
+                                                                        .passionImagenBooth {
+                                                                
+                                                                                                              img {
+                                                                                                                        width:$widthimage;
+                                                                                                                      }
+                                                                                                              img:hover {
+                                                                                                                        opacity:$vopacity; 
+                                                                                                                                }
+                                                                                                            }
 }
 @media only screen and (min-width: 992px) {
-                                                                     .passionImagenBooth  img {
-                                                                        width:$widthimage;
-                                                                        }
-                                                                        .passionImagenBooth  img:hover {
-                                                                        opacity:$vopacity;  }                                                                       
+                                                                        .passionImagenBooth {
+                                                                
+                                                                                                              img {
+                                                                                                                        width:$widthimage;
+                                                                                                                      }
+                                                                                                              img:hover {
+                                                                                                                        opacity:$vopacity; 
+                                                                                                                                }
+                                                                                                            }                                                             
 }
 @media only screen and (min-width: 1200px) {
-                                                                        .passionImagenBooth img {
-                                                                        width:$widthimage;
-                                                                        }
-                                                                        .passionImagenBooth  img:hover {
-                                                                        opacity:$vopacity;     }                                                                   
+                                                                        .passionImagenBooth {
+                                                                
+                                                                                                              img {
+                                                                                                                        width:$widthimage;
+                                                                                                                      }
+                                                                                                              img:hover {
+                                                                                                                        opacity:$vopacity; 
+                                                                                                                                }
+                                                                                                            }                                                             
 
 }
 
