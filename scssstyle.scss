@@ -23,8 +23,37 @@ $vopacity: 0.5;
   height: $height;
 }
 
+ .listIndex {margin: auto;}
+ 
+ %itemOver {
+                        border: 1px solid #777;
+                        border-radius: 5px;
+                        cursor: hand;
+ }
+            
+ .listIndexItem:hover {
+                        @extend %itemOver;
+ }
+ .listIndexItemindex:hover {
+                        @extend %itemOver;
+                         background-color:hotpink;
+ }
+  .listIndexItemhello:hover {
+                        @extend %itemOver;
+                        background-color:lightgreen;
+ }
+  .listIndexIteminstructions:hover {
+                        @extend %itemOver;
+                        background-color:orange;
+                        opacity: 0.7;
+ }
+  .listIndexItemcurriculum:hover {
+                        @extend %itemOver;
+                         background-color:yellow;
+                         opacity: 0.7;
+ }
 
-%
+
 
 @media only screen and (max-width: 600px) {
                                                                         .passionImagenBooth {

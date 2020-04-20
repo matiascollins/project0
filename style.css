@@ -10,8 +10,7 @@
                         position: sticky;
                         top: 0; 
                         background-color:white;}
- .listIndex {margin: auto;}
- .listIndexItem:hover {border: 1px solid #777; border-radius: 5px; background-color:hotpink;}
+
  
 @media only screen and (max-width: 600px) {
 
