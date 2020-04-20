@@ -5,6 +5,7 @@ $height: 260px;
 $margin: auto;
 $padding: 10px;
 $widthimage: 100%;
+$opacity:0.5;
 
 
 
@@ -27,29 +28,38 @@ $widthimage: 100%;
                                                                         .passionImagenBooth  img {
                                                                         width:$widthimage;
                                                                         }
-
+                                                                        .passionImagenBooth  img:hover {
+                                                                        opacity:$opacity;
+                                                                        }
 }
 @media only screen and (min-width: 600px) {
                                                                         .passionImagenBooth  img {
                                                                         width:$widthimage;
                                                                         }
+                                                                        .passionImagenBooth  img:hover {
+                                                                        opacity:$opacity;
 }
 @media only screen and (min-width: 768px) {
                                                                         .passionImagenBooth img {
                                                                         width:$widthimage;
                                                                         }
+                                                                         .passionImagenBooth  img:hover {
+                                                                        opacity:$opacity;                                                                       
 
 }
 @media only screen and (min-width: 992px) {
                                                                      .passionImagenBooth  img {
                                                                         width:$widthimage;
                                                                         }
-
+                                                                        .passionImagenBooth  img:hover {
+                                                                        opacity:$opacity;                                                                        
 }
 @media only screen and (min-width: 1200px) {
                                                                         .passionImagenBooth img {
                                                                         width:$widthimage;
                                                                         }
+                                                                        .passionImagenBooth  img:hover {
+                                                                        opacity:$opacity;                                                                        
 
 }
 
