@@ -49,9 +49,7 @@ $vopacity: 0.5;
                         opacity: 0.7;
                         cursor: help;
                         
-                        a {
-                            cursor:help;
-                        }
+
  }
   .listIndexItemcurriculum:hover {
                         @extend %itemOver;
@@ -59,8 +57,11 @@ $vopacity: 0.5;
                          opacity: 0.7;
                         cursor: pointer;
  }
-
-
+  .listIndexIteminstructions  {
+                        a {
+                            cursor:help;
+                        }
+}
 
 @media only screen and (max-width: 600px) {
                                                                         .passionImagenBooth {
