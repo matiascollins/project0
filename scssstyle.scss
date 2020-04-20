@@ -48,6 +48,10 @@ $vopacity: 0.5;
                         background-color:orange;
                         opacity: 0.7;
                         cursor: help;
+                        
+                        a {
+                            cursor:help;
+                        }
  }
   .listIndexItemcurriculum:hover {
                         @extend %itemOver;
